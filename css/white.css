@@ -106,7 +106,7 @@ span {
 #sort .categories-outer {
   display: none;
   z-index: 99999;
-  background: #fff;
+  background: #FFFFFF;
   border-radius: 3px;
   min-width: 100px;
   border: 1px solid #FF9CA8;
@@ -252,7 +252,7 @@ a {
   transition: all 0.4s;
 }
 .paginator .extend:hover {
-  color: #fff;
+  color: #FFFFFF;
   background-color: #FF9CA8;
 }
 .footer-outer {
@@ -677,7 +677,7 @@ li p {
 }
 #gitalk-container .gt-btn-preview:hover {
   background-color: #FF9CA8;
-  color: #fff;
+  color: #FFFFFF;
 }
 #gitalk-container .gt-btn-login {
   border: 1px solid #FF9CA8;
@@ -686,7 +686,7 @@ li p {
   transition: all 0.3s;
 }
 #gitalk-container .gt-btn-login:hover {
-  background-color: #fff;
+  background-color: #FFFFFF;
   color: #FF9CA8;
 }
 #gitalk-container .gt-btn-public {
@@ -696,7 +696,7 @@ li p {
   transition: all 0.3s;
 }
 #gitalk-container .gt-btn-public:hover {
-  background-color: #fff;
+  background-color: #FFFFFF;
   color: #FF9CA8;
 }
 .post-content-inner {
@@ -818,6 +818,7 @@ li p {
   padding-right: 46px;
   background: transparent;
   border: 2px solid #FF9CA8;
+  color: #333333;
 }
 .search-input-outer button {
   height: 42px;
@@ -825,7 +826,7 @@ li p {
   cursor: pointer;
   position: absolute;
   background: #FF9CA8;
-  color: #fff;
+  color: #FFFFFF;
 }
 #local-search-result {
   border-top: 1px dashed #898FA0;
@@ -837,7 +838,7 @@ li p {
   margin-bottom: 40px;
 }
 #local-search-result .search-result-title {
-  color: #333;
+  color: #333333;
   font-size: 1.3em;
   font-weight: 700;
   transition: all 0.2s;
@@ -851,7 +852,7 @@ li p {
   font-weight: 1000;
 }
 #mobile-main {
-  background: #fff;
+  background: #FFFFFF;
   width: 100%;
   height: 100%;
   position: fixed;
@@ -878,12 +879,13 @@ li p {
   padding: 40px 40px;
 }
 .mobile-menu-inner .mobile-menu-site-name {
-  font-size: 1.5em;
-  font-weight: 1000;
+  font-family: Gothic;
+  font-size: 1.6em;
 }
 .mobile-menu-inner .mobile-menu-group {
   font-size: 2em;
   cursor: pointer;
+  color: #333333;
 }
 .moibile-active-link span {
   box-shadow: inset 0 -0.2em 0 #FF9CA8;
@@ -1050,7 +1052,7 @@ li p {
   #sort .categories-outer {
     display: none;
     z-index: 99999;
-    background: #fff;
+    background: #202020;
     border-radius: 3px;
     min-width: 100px;
     border: 1px solid #FF9CA8;
@@ -1196,7 +1198,7 @@ li p {
     transition: all 0.4s;
   }
   .paginator .extend:hover {
-    color: #fff;
+    color: #202020;
     background-color: #FF9CA8;
   }
   .footer-outer {
@@ -1621,7 +1623,7 @@ li p {
   }
   #gitalk-container .gt-btn-preview:hover {
     background-color: #FF9CA8;
-    color: #fff;
+    color: #202020;
   }
   #gitalk-container .gt-btn-login {
     border: 1px solid #FF9CA8;
@@ -1630,7 +1632,7 @@ li p {
     transition: all 0.3s;
   }
   #gitalk-container .gt-btn-login:hover {
-    background-color: #fff;
+    background-color: #202020;
     color: #FF9CA8;
   }
   #gitalk-container .gt-btn-public {
@@ -1640,7 +1642,7 @@ li p {
     transition: all 0.3s;
   }
   #gitalk-container .gt-btn-public:hover {
-    background-color: #fff;
+    background-color: #202020;
     color: #FF9CA8;
   }
   .post-content-inner {
@@ -1742,6 +1744,7 @@ li p {
     padding-right: 46px;
     background: transparent;
     border: 2px solid #FF9CA8;
+    color: #FFFFFF;
   }
   .search-input-outer button {
     height: 42px;
@@ -1749,7 +1752,7 @@ li p {
     cursor: pointer;
     position: absolute;
     background: #FF9CA8;
-    color: #fff;
+    color: #202020;
   }
   #local-search-result {
     border-top: 1px dashed #A0A0A0;
@@ -1761,7 +1764,7 @@ li p {
     margin-bottom: 40px;
   }
   #local-search-result .search-result-title {
-    color: #333;
+    color: #FFFFFF;
     font-size: 1.3em;
     font-weight: 700;
     transition: all 0.2s;
@@ -1775,7 +1778,7 @@ li p {
     font-weight: 1000;
   }
   #mobile-main {
-    background: #fff;
+    background: #202020;
     width: 100%;
     height: 100%;
     position: fixed;
@@ -1802,12 +1805,13 @@ li p {
     padding: 40px 40px;
   }
   .mobile-menu-inner .mobile-menu-site-name {
-    font-size: 1.5em;
-    font-weight: 1000;
+    font-family: Gothic;
+    font-size: 1.6em;
   }
   .mobile-menu-inner .mobile-menu-group {
     font-size: 2em;
     cursor: pointer;
+    color: #FFFFFF;
   }
   .moibile-active-link span {
     box-shadow: inset 0 -0.2em 0 #FF9CA8;
