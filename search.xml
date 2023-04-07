@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>Cats Plus</title>
+      <link href="//posts/CatsPlus.html"/>
+      <url>//posts/CatsPlus.html</url>
+      
+        <content type="html"><![CDATA[<p>这是一个关于猫咪的Mod！</p><p>原版Minecaft中关于猫咪的玩法过于简单，因此作为猫娘，我们要为Minecraft中的猫咪带来更多有趣的玩法！</p><h2 id="目前已经实现的功能"><a href="#目前已经实现的功能" class="headerlink" title="目前已经实现的功能"></a>目前已经实现的功能</h2><h3 id="熟鱼"><a href="#熟鱼" class="headerlink" title="熟鱼"></a>熟鱼</h3><p>作为一只家养猫猫，怎么能只吃生鱼肉呢！烤熟的小鱼干才是最棒的😻！<br>现在驯服的猫猫可以吃熟鱼了！<br>（不过不要想用熟鱼诱惑野猫，它们可不喜欢😾）</p><h3 id="举起猫猫"><a href="#举起猫猫" class="headerlink" title="举起猫猫"></a>举起猫猫</h3><p>蹲下右键点击猫猫就可以把猫猫举到头上！不过小心，双脚离地的时候猫猫就会掉落！<br><em>那么跑步的时候跳起会发生什么呢😺</em></p><h3 id="猫包"><a href="#猫包" class="headerlink" title="猫包"></a>猫包</h3><p>使用猫包来携带你的猫咪！手持猫包右键点击你家猫咪就能把猫咪装进猫包里！携带猫猫旅行赶路的不二之选！</p><p>        <span class="lazyload-img-span">        <img              data-src="/res/CatsPlus/catbag.jpg" >        </sapn>      </p><p>支持猫包染色&amp;显示猫脸！</p><h3 id="音乐"><a href="#音乐" class="headerlink" title="音乐"></a>音乐</h3><p>现在猫猫也会随着音乐起舞了！虽然摇动的只有脑袋😹</p><p>        <span class="lazyload-img-span">        <img              data-src="/res/CatsPlus/music.gif" >        </sapn>      </p><h3 id="不死猫腾"><a href="#不死猫腾" class="headerlink" title="不死猫腾"></a>不死猫腾</h3><p>给猫咪用的不死图腾！再也不用担心猫咪跟随自己旅行时因为各种意外死掉了！<br>        <span class="lazyload-img-span">        <img              data-src="/res/CatsPlus/totemeow.jpg" >        </sapn>      <br>只需要在外围放上一圈小鱼干，中间放上不死图腾就能获取！是不是很实惠！<br><del>（啊不需要8*8个小鱼干啦，只要8个就可以喵）</del></p><h2 id="计划中的功能"><a href="#计划中的功能" class="headerlink" title="计划中的功能"></a>计划中的功能</h2><h3 id="好感度系统"><a href="#好感度系统" class="headerlink" title="好感度系统"></a>好感度系统</h3><p>猫咪将拥有一个好感度系统，合理的互动可以增加猫咪的好感度。<br>当好感度足够高的时候，猫咪说不定会在早上醒来的时候给你一些惊喜哦😻<br>不过要是虐待猫猫，猫猫就会离你而去呢😿</p><h3 id="变猫药水"><a href="#变猫药水" class="headerlink" title="变猫药水"></a>变猫药水</h3><p>受最新愚人节快照启发，为什么不增加一个能让玩家变成猫猫形状的药水呢～<br>获取可以解锁一些有趣的玩法呢</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> Minecraft </tag>
+            
+            <tag> MinecraftMod </tag>
+            
+            <tag> Fabric </tag>
+            
+            <tag> Cats </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Hello World</title>
       <link href="//posts/hello-world.html"/>
       <url>//posts/hello-world.html</url>
@@ -15,30 +40,31 @@
     </entry>
     
     
-  
-  
-    
     
     <entry>
-      <title>search</title>
-      <link href="/search/index.html"/>
-      <url>/search/index.html</url>
+      <title>Fabric Telegram Bridge</title>
+      <link href="//posts/FabricTgBridge.html"/>
+      <url>//posts/FabricTgBridge.html</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<p>想要让Telegram群组和Minecraft服务器的连接更紧密吗！快安装这个Mod！<br>简单的配置即可在TG群组和MC服务器之间互相传递聊天消息等内容。<br>支持传递服务器广播，比如玩家死亡消息等，<del>让你在群里也能嘲笑别人蠢蠢的死法！</del><br>支持管理员使用服务器指令，无需打开服务器后台，无需登录游戏也能轻松管理服务器！</p><p>更多信息详见 <a href="https://modrinth.com/mod/fabric-tg-bridge">Modrinth</a> <a href="https://github.com/CuteNekoOwO/FabricTgBridge">Github</a></p><p><del>截图在路上了！咕咕咕！</del></p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> Minecraft </tag>
+            
+            <tag> MinecraftMod </tag>
+            
+            <tag> Fabric </tag>
+            
+            <tag> Telegram </tag>
+            
+        </tags>
       
     </entry>
     
     
-    
-    <entry>
-      <title>about</title>
-      <link href="/about/index.html"/>
-      <url>/about/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
+  
   
 </search>

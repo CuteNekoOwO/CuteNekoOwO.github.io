@@ -16,7 +16,8 @@ var searchFunc = function(path, search_id, content_id) {
             var $input = document.getElementById(search_id);
             var $resultContent = document.getElementById(content_id);
 
-            $input.addEventListener('input', function(){
+            function search(){
+                console.log(this);
                 var str='<ul class=\"search-result-list\">';                
                 var keywords = this.value.trim().toLowerCase().split(/[\s\-]+/);
                 $resultContent.innerHTML = "";
@@ -86,7 +87,19 @@ var searchFunc = function(path, search_id, content_id) {
                 });
                 str += "</ul>";
                 $resultContent.innerHTML = str;
-            });
+            }
+            let q = getUrlParams(document.URL)['q'];
+            if(q) $input.value = q;
+            $input.addEventListener('input', search);
+            search.call($input);
+
         }
     });
+}
+
+function getUrlParams(url) {
+	let urlStr = url.split('?')[1]
+	const urlSearchParams = new URLSearchParams(urlStr)
+	const result = Object.fromEntries(urlSearchParams.entries())
+	return result
 }
