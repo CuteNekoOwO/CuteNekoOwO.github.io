@@ -33,7 +33,7 @@
       <link href="//posts/FabricTgBridge.html"/>
       <url>//posts/FabricTgBridge.html</url>
       
-        <content type="html"><![CDATA[<p>想要让Telegram群组和Minecraft服务器的连接更紧密吗！快安装这个Mod！<br>简单的配置即可在TG群组和MC服务器之间互相传递聊天消息等内容。<br>支持传递服务器广播，比如玩家死亡消息等，<del>让你在群里也能嘲笑别人蠢蠢的死法！</del><br>支持管理员使用服务器指令，无需打开服务器后台，无需登录游戏也能轻松管理服务器！</p><p>更多信息详见 <a href="https://modrinth.com/mod/fabric-tg-bridge">Modrinth</a> <a href="https://github.com/CuteNekoOwO/FabricTgBridge">Github</a></p><p><del>截图在路上了！咕咕咕！</del></p>]]></content>
+        <content type="html"><![CDATA[<p>想要让Telegram群组和Minecraft服务器的连接更紧密吗！快安装这个Mod！<br>简单的配置即可在TG群组和MC服务器之间互相传递聊天消息等内容。<br>支持传递服务器广播，比如玩家死亡消息等，<del>让你在群里也能嘲笑别人蠢蠢的死法！</del><br>支持管理员使用服务器指令，无需打开服务器后台，无需登录游戏也能轻松管理服务器！</p><h2 id="特色功能"><a href="#特色功能" class="headerlink" title="特色功能"></a>特色功能</h2><h3 id="复杂消息类型支持"><a href="#复杂消息类型支持" class="headerlink" title="复杂消息类型支持"></a>复杂消息类型支持</h3><p>        <span class="lazyload-img-span">        <img              data-src="/res/FabricTgBridge/MessageTypes.png" >        </sapn>      </p><p>图片，文件，贴纸，转发消息等特殊属性会有特殊标示！</p><h3 id="服务器事件"><a href="#服务器事件" class="headerlink" title="服务器事件"></a>服务器事件</h3><p>        <span class="lazyload-img-span">        <img              data-src="/res/FabricTgBridge/ServerEvent.png" >        </sapn>      </p><p>显示玩家死亡、成就达成等服务器事件消息！</p><h3 id="管理服务器"><a href="#管理服务器" class="headerlink" title="管理服务器"></a>管理服务器</h3><p>        <span class="lazyload-img-span">        <img              data-src="/res/FabricTgBridge/ServerCommand.png" >        </sapn>      </p><p>在群组中直接使用服务器命令行来管理服务器！</p><p>更多信息详见 <a href="https://modrinth.com/mod/fabric-tg-bridge">Modrinth</a> <a href="https://github.com/CuteNekoOwO/FabricTgBridge">Github</a></p>]]></content>
       
       
       
